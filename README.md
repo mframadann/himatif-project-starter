@@ -1,2 +1,2 @@
-# sb-admin-2-php-starter
+# Tailadmin PHP Native Project Starter
 Project template for sharing session in himatif
