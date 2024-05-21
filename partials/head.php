@@ -9,7 +9,9 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SB Admin 2 - Dashboard</title>
+  <title>
+    <?= APP_NAME ?>
+  </title>
 
   <!-- Custom fonts for this template-->
   <link href="./vendors/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
