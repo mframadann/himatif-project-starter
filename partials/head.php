@@ -23,4 +23,7 @@
   <!-- Custom styles for this template-->
   <link href="./public/css/sb-admin-2.css" rel="stylesheet">
 
+  <!-- Website icon -->
+  <link rel="shortcut icon" href="./public/favicon.ico" type="image/x-icon">
+
 </head>
